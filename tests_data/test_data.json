@@ -1,0 +1,24 @@
+{
+    "baeUrl"                :"https://www.saucedemo.com",
+    "validUser"             : "standard_user",
+    "password"              : "secret_sauce",
+    "homePageUrl"           :"https://www.saucedemo.com/inventory.html",
+    "sortByPriceHighToLow"  :"Price (high to low)",
+    "sortByPriceLowToHigh"  :"Price (low to high)",
+    "sortByNameAtoZ"        :"Name (A to Z)",
+    "sortByNameZtoA"        :"Name (Z to A)",
+    "numberOfItems"         :3,
+    "firstName"             :"QA",
+    "lastName"              :"Task",
+    "postalCode"            :"12345",
+    "totalPrice"            :"103.65",
+    "blockedOutUser"        :"locked_out_user",
+    "lockedOutMessage"      :"Epic sadface: Sorry, this user has been locked out.",
+    "problemUser"           :"problem_user",
+    "performanceGlitchUser" :"performance_glitch_user",
+    "errorUser"             :"error_user",
+    "visualUser"            :"visual_user",
+    "sortingErrorMessage"   :"Sorting is broken! This error has been reported to Backtrace.",
+    "transformRotation"     :"matrix(0.99863, 0.052336, -0.052336, 0.99863, 0, 0)" 
+    
+}
